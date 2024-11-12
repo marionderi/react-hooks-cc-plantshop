@@ -57,7 +57,7 @@ main {
   background-color: rgba(181, 250, 181, 0.5);
 }
 
-.new-plant-form form {
+.new-plant-form  {
   display: flex;
   justify-content: center;
 }
